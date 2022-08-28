@@ -7,16 +7,16 @@ import (
 	"net"
 )
 
-func main(){
-	li, err := net.Listen("tcp",":8080")
-	if err != nil{
+func main() {
+	li, err := net.Listen("tcp", ":8080")
+	if err != nil {
 		log.Fatalln(err)
 	}
 	defer li.Close()
 
-	for  {
+	for {
 		conn, err := li.Accept()
-		if err != nil{
+		if err != nil {
 			log.Println(err)
 			continue
 		}
@@ -25,12 +25,11 @@ func main(){
 
 }
 
-func handle(conn net.Conn){
+func handle(conn net.Conn) {
 	scanner := bufio.NewScanner(conn)
-	for scanner.Scan(){
+	for scanner.Scan() {
 		ln := scanner.Text()
 		fmt.Println(ln)
-		fmt.Fprintf(conn,"I heard you say: %s\n", ln)
 	}
 	defer conn.Close()
 
