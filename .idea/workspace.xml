@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/building_tcp_server_for_http/01_todd's/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/building_tcp_server_for_http/02_hands-on/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building_tcp_server_for_http/04_mux_hands-on/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_server/01_write_to_connection/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_server_basic/01_write_to_connection/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_server/02_read_from_connection/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_server_basic/02_read_from_connection/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_server/03_read_write/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_server_basic/03_read_write/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_server/04_read_write_setDeadline/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_server_basic/04_read_write_setDeadline/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_server/05_client_read/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/TCP_server_basic/05_client_read/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/building_tcp_server_for_http/02_hands-on/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/building_tcp_server_for_http/02_hands-on/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
