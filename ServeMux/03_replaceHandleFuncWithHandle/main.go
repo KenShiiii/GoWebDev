@@ -14,8 +14,8 @@ func init() {
 func main() {
 
 	http.Handle("/", http.HandlerFunc(index))
-	http.HandleFunc("/dog/", http.HandlerFunc(dog))
-	http.HandleFunc("/me/", http.HandlerFunc(me))
+	http.Handle("/dog/", http.HandlerFunc(dog))
+	http.Handle("/me/", http.HandlerFunc(me))
 
 	http.ListenAndServe(":8080", nil)
 }
