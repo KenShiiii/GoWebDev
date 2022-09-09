@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TCP_hands-on/06_Response Header/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TCP_hands-on/06_Response Header/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TCP_hands-on/07_HTML Response Header/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TCP_hands-on/07_HTML Response Header/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TCP_hands-on/08_Respond to Methods &amp; Routes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TCP_hands-on/08_Respond to Methods &amp; Routes/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/building_tcp_server_for_http/02_hands-on/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/building_tcp_server_for_http/02_Request Header/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode_prac" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
