@@ -70,6 +70,7 @@ func index(conn net.Conn) {
 			<title>Code Gangsta</title>
 		</head>
 		<body>
+			<h1><strong>GET  /</strong></h1>
 			<a href="/"> <h1>Index</h1></a>
 			<a href="/apply"> <h1>apply</h1></a>
 
@@ -94,6 +95,7 @@ func apply(conn net.Conn) {
 			<title>Code Gangsta</title>
 		</head>
 		<body>
+			<h1><strong>GET  /apply</strong></h1>
 			<a href="/"><h1>Index</h1></a>
 			<a href="/apply"><h1>apply</h1></a>
 			<form action="/apply" method="POST">
@@ -122,9 +124,10 @@ func applyPost(conn net.Conn) {
 			<title>Code Gangsta</title>
 		</head>
 		<body>
+			<h1><strong>apply Processed!</strong></h1>
 			<a href="/"> <h1>Index</h1></a>
 			<a href="/apply"> <h1>apply</h1></a>
-			<strong>apply Processed!</strong>
+			
 
 		</body>
 		</html>
