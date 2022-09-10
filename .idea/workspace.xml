@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TCP_hands-on/08_Respond to Methods &amp; Routes/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TCP_hands-on/08_Respond to Methods &amp; Routes/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/01_http.ServeFile/Dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/01_http.ServeFile/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/01_http.ServeFile/dog.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/01_http.ServeFile/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/building_tcp_server_for_http/04_mux_hands-on/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/building_tcp_server_for_http/04_mux_hands-on/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Serving Files/01_http.ServeFile" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,7 +67,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desktop\GoWebDev\Serving Files\01_http.ServeFile" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\GoWebDev\Serving Files\01_http.ServeFile" />
       <recent name="E:\Desktop\GoWebDev\ServeMux\03_replaceHandleFuncWithHandle" />
     </key>
   </component>
