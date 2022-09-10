@@ -20,10 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Serving Files/01_http.ServeFile/Dog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/01_http.ServeFile/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/01_http.ServeFile/dog.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/01_http.ServeFile/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/building_tcp_server_for_http/04_mux_hands-on/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/building_tcp_server_for_http/04_mux_hands-on/main.go" afterDir="false" />
     </list>
