@@ -20,12 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Serving Files/02_http.FileServer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/02_http.FileServer/starting-files/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/02_http.FileServer/starting-files/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/02_http.FileServer/starting-files/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/02_http.FileServer/starting-files/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/02_http.FileServer/starting-files/pic/surf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/public/pics/dog.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/public/pics/dog1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/public/pics/dog2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/templates/index.gohtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,15 +68,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\GoWebDev\Serving Files\01_http.ServeFile" />
+      <recent name="E:\Desktop\GoWebDev\ServeMux\03_replaceHandleFuncWithHandle" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desktop\GoWebDev\Serving Files\03_FileServer Return Type\starting-files\public\pics" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\02_http.FileServer\starting-files\pic" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\02_http.FileServer\starting-files\css" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\02_http.FileServer\starting-files" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\01_http.ServeFile" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Desktop\GoWebDev\Serving Files\01_http.ServeFile" />
-      <recent name="E:\Desktop\GoWebDev\ServeMux\03_replaceHandleFuncWithHandle" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
