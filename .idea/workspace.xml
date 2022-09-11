@@ -20,12 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/starting-files/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/starting-files/public/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/starting-files/public/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/starting-files/public/pic/surf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/starting-files/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/about.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/apply.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/applyProcess.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/contact.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,10 +101,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1029" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1662884686499">
+    <state x="1029" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1662890510862">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1029" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1662884686499" />
+    <state x="1029" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1662890510862" />
     <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1662710452689">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
