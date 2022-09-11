@@ -20,12 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/public/pics/dog.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/public/pics/dog1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/public/pics/dog2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/04_Strip Prefix/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/04_Strip Prefix/starting-files/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/04_Strip Prefix/starting-files/public/pics/dog.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/04_Strip Prefix/starting-files/public/pics/dog1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/04_Strip Prefix/starting-files/public/pics/dog2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serving Files/04_Strip Prefix/starting-files/templates/index.gohtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Serving Files/01_http.ServeFile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Serving Files/04_Strip Prefix" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,6 +69,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\GoWebDev\Serving Files\04_Strip Prefix" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\01_http.ServeFile" />
       <recent name="E:\Desktop\GoWebDev\ServeMux\03_replaceHandleFuncWithHandle" />
     </key>
