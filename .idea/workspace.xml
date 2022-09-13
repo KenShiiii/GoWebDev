@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/about.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/apply.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/applyProcess.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/contact.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serving Files/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redirect &amp; Cookies/01_cookie/READM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redirect &amp; Cookies/01_cookie/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +40,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
   <component name="ProjectId" id="2DLfMfHsYfD9waapGczbs3WdmQJ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,6 +57,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/starting-files/public/pic" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -70,18 +68,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Desktop\GoWebDev\Serving Files\05_http.StripPrefix\starting-files\public\pic" />
-      <recent name="E:\Desktop\GoWebDev\Serving Files\04_Strip Prefix" />
-      <recent name="E:\Desktop\GoWebDev\Serving Files\01_http.ServeFile" />
-      <recent name="E:\Desktop\GoWebDev\ServeMux\03_replaceHandleFuncWithHandle" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Desktop\GoWebDev\Serving Files\03_FileServer Return Type\starting-files\public\pics" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\02_http.FileServer\starting-files\pic" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\02_http.FileServer\starting-files\css" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\02_http.FileServer\starting-files" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\01_http.ServeFile" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\GoWebDev\Serving Files\05_http.StripPrefix\starting-files\public\pic" />
+      <recent name="E:\Desktop\GoWebDev\Serving Files\04_Strip Prefix" />
+      <recent name="E:\Desktop\GoWebDev\Serving Files\01_http.ServeFile" />
+      <recent name="E:\Desktop\GoWebDev\ServeMux\03_replaceHandleFuncWithHandle" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
