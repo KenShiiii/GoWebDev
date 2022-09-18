@@ -20,83 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08_Sessions/01_uuid/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/02_session/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/02_session/templates/bar.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/02_session/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redirect &amp; Cookies/01_cookie/READM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redirect &amp; Cookies/01_cookie/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServeMux/01_defaultServeMux/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServeMux/02_serveMuxAndTemplate/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServeMux/02_serveMuxAndTemplate/tpl.gohtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServeMux/03_replaceHandleFuncWithHandle/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServeMux/03_replaceHandleFuncWithHandle/tpl.gohtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/01_http.ServeFile/Dog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/01_http.ServeFile/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/01_http.ServeFile/dog.gohtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/01_http.ServeFile/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/02_http.FileServer/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/02_http.FileServer/starting-files/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/02_http.FileServer/starting-files/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/02_http.FileServer/starting-files/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/02_http.FileServer/starting-files/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/02_http.FileServer/starting-files/pic/surf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/public/pics/dog.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/public/pics/dog1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/public/pics/dog2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/03_FileServer Return Type/starting-files/templates/index.gohtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/04_Strip Prefix/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/04_Strip Prefix/starting-files/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/04_Strip Prefix/starting-files/public/pics/dog.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/04_Strip Prefix/starting-files/public/pics/dog1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/04_Strip Prefix/starting-files/public/pics/dog2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/04_Strip Prefix/starting-files/templates/index.gohtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/starting-files/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/starting-files/public/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/starting-files/public/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/starting-files/public/pic/surf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/05_http.StripPrefix/starting-files/templates/index.gohtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/about.gohtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/apply.gohtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/applyProcess.gohtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/contact.gohtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/06_Execute multiple templates/starting-files/templates/index.gohtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serving Files/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/01_basicServer/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/01_basicServer/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/02_ReadFromConnection/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/02_ReadFromConnection/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/03_hands-on/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/03_hands-on/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/04_handleMultipleConnection/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/04_handleMultipleConnection/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/05_Status Line/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/05_Status Line/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/06_Response Header/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/06_Response Header/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/07_HTML Response Header/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/07_HTML Response Header/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/08_Respond to Methods &amp; Routes/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_hands-on/08_Respond to Methods &amp; Routes/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_server_basic/01_write_to_connection/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_server_basic/02_read_from_connection/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_server_basic/03_read_write/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_server_basic/04_read_write_setDeadline/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TCP_server_basic/05_client_read/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODD+MCLEOD+-+GO+WEB+DEV+-+COURSE+OUTLINE.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/hands-on/01/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/hands-on/01/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/hands-on/01/tpl.gohtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/building_tcp_server_for_http/01_todd's/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/building_tcp_server_for_http/02_Request Header/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/building_tcp_server_for_http/04_mux_hands-on/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Sessions/02_session/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/08_Sessions/02_session/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Sessions/02_session/templates/bar.gohtml" beforeDir="false" afterPath="$PROJECT_DIR$/08_Sessions/02_session/templates/bar.gohtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Sessions/02_session/templates/index.gohtml" beforeDir="false" afterPath="$PROJECT_DIR$/08_Sessions/02_session/templates/index.gohtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
