@@ -80,10 +80,6 @@ func signup(w http.ResponseWriter, req *http.Request)  {
 		u := user{un,p,f,l}
 		dbUsers[un] = u
 
-		u = user{un,p, f, l}
-		dbSessions[c.Value] = un
-		dbUsers[un] = u
-
 		//redirect
 		http.Redirect(w, req, "/", http.StatusSeeOther)
 		return

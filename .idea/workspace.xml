@@ -20,13 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08_Sessions/04_bcrypt/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/04_bcrypt/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/04_bcrypt/session.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/04_bcrypt/templates/bar.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/04_bcrypt/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/04_bcrypt/templates/signup.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/templates/bar.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/templates/login.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/templates/signup.gohtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Sessions/03_signup/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/08_Sessions/03_signup/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Sessions/04_bcrypt/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/08_Sessions/04_bcrypt/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/08_Sessions/04_bcrypt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/08_Sessions/05_login" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -70,11 +73,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\GoWebDev\08_Sessions\05_login" />
       <recent name="E:\Desktop\GoWebDev\08_Sessions\04_bcrypt" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\05_http.StripPrefix\starting-files\public\pic" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\04_Strip Prefix" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\01_http.ServeFile" />
-      <recent name="E:\Desktop\GoWebDev\ServeMux\03_replaceHandleFuncWithHandle" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Desktop\GoWebDev\Serving Files\03_FileServer Return Type\starting-files\public\pics" />
