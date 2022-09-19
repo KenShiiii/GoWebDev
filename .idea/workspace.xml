@@ -20,16 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/session.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/templates/bar.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/templates/login.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Sessions/05_login/templates/signup.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/06_logout/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/06_logout/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/06_logout/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/06_logout/templates/bar.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/06_logout/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/06_logout/templates/login.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/06_logout/templates/signup.gohtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_Sessions/03_signup/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/08_Sessions/03_signup/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_Sessions/04_bcrypt/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/08_Sessions/04_bcrypt/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,22 +60,22 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/08_Sessions/05_login" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/08_Sessions/06_logout" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\GoWebDev\08_Sessions\06_logout" />
       <recent name="E:\Desktop\GoWebDev\08_Sessions\05_login" />
       <recent name="E:\Desktop\GoWebDev\08_Sessions\04_bcrypt" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\05_http.StripPrefix\starting-files\public\pic" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\04_Strip Prefix" />
-      <recent name="E:\Desktop\GoWebDev\Serving Files\01_http.ServeFile" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Desktop\GoWebDev\Serving Files\03_FileServer Return Type\starting-files\public\pics" />
@@ -112,10 +110,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1662710452689" />
-    <state x="781" y="344" key="SettingsEditor" timestamp="1662885236255">
+    <state x="1103" y="249" key="SettingsEditor" timestamp="1663597615553">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="344" key="SettingsEditor/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1662885236255" />
+    <state x="1103" y="249" key="SettingsEditor/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1663597615553" />
+    <state x="1054" y="554" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1663596793452">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1054" y="554" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1663596793452" />
     <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1662884969853">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
