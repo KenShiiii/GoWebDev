@@ -20,10 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/08_Sessions/03_signup/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/03_signup/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/03_signup/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/03_signup/templates/bar.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/03_signup/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Sessions/03_signup/templates/signup.gohtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_Sessions/02_session/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/08_Sessions/02_session/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08_Sessions/02_session/templates/bar.gohtml" beforeDir="false" afterPath="$PROJECT_DIR$/08_Sessions/02_session/templates/bar.gohtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_Sessions/02_session/templates/index.gohtml" beforeDir="false" afterPath="$PROJECT_DIR$/08_Sessions/02_session/templates/index.gohtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
