@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/09_AWS/00_about aws/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_AWS/01_publish service on aws/01_repository/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_AWS/01_publish service on aws/01_repository/session.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_AWS/01_publish service on aws/01_repository/templates/bar.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_AWS/01_publish service on aws/01_repository/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_AWS/01_publish service on aws/01_repository/templates/login.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_AWS/01_publish service on aws/01_repository/templates/signup.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_AWS/01_publish service on aws/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Relational DB with go/01_connect to RDS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Relational DB with go/01_connect to RDS/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Relational DB with go/02_SQL with go/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_photo blog/01_user data/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_photo blog/01_user data/templates/index.gohtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
