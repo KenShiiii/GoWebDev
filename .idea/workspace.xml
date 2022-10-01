@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/09_AWS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Scaling on AWS/01_load balancer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_Scaling on AWS/01_load balancer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Scaling on AWS/02_access RDS on different instances/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
