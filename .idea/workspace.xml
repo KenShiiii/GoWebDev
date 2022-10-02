@@ -20,8 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/11_Scaling on AWS/02_access RDS on different instances/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_photo blog/02_storing multiple values/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_photo blog/02_storing multiple values/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_photo blog/03_upload-picture/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_photo blog/03_upload-picture/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_photo blog/04_display-picture/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_photo blog/04_display-picture/templates/index.gohtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_photo blog/01_user data/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/12_photo blog/01_user data( cookie)/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_photo blog/01_user data/templates/index.gohtml" beforeDir="false" afterPath="$PROJECT_DIR$/12_photo blog/01_user data( cookie)/templates/index.gohtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +61,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/09_AWS/01_publish service on aws/01_repository" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/12_photo blog" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,19 +71,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\GoWebDev\12_photo blog" />
+      <recent name="E:\Desktop\GoWebDev\12_photo blog\03_upload-picture" />
+      <recent name="E:\Desktop\GoWebDev\12_photo blog\02_storing multiple values" />
+      <recent name="E:\Desktop\GoWebDev\09_AWS\01_publish service on aws\01_repository" />
+      <recent name="E:\Desktop\GoWebDev\08_Sessions\08_expire session" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Desktop\GoWebDev\Serving Files\03_FileServer Return Type\starting-files\public\pics" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\02_http.FileServer\starting-files\pic" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\02_http.FileServer\starting-files\css" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\02_http.FileServer\starting-files" />
       <recent name="E:\Desktop\GoWebDev\Serving Files\01_http.ServeFile" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Desktop\GoWebDev\09_AWS\01_publish service on aws\01_repository" />
-      <recent name="E:\Desktop\GoWebDev\08_Sessions\08_expire session" />
-      <recent name="E:\Desktop\GoWebDev\08_Sessions\06_logout" />
-      <recent name="E:\Desktop\GoWebDev\08_Sessions\05_login" />
-      <recent name="E:\Desktop\GoWebDev\08_Sessions\04_bcrypt" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

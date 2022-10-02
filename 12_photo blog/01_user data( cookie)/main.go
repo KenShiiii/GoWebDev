@@ -28,5 +28,5 @@ func index(w http.ResponseWriter, r *http.Request) {
 		http.SetCookie(w, cookie)
 	}
 
-	tpl.ExecuteTemplate(w, "index.gohtml", nil)
+	tpl.ExecuteTemplate(w, "index.gohtml", cookie)
 }
