@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/12_photo blog/04_display-picture/public/pics/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Docker/01_build-image/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Docker/01_build-image/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Docker/02_curl/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Docker/02_curl/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Docker/03_hello-go/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Docker/03_hello-go/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Docker/03_hello-go/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Docker/03_hello-go/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,10 +99,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1029" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1662890510862">
+    <state x="1029" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1665509423676">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1029" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1662890510862" />
+    <state x="1029" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1665509423676" />
     <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1662710452689">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
