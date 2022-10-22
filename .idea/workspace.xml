@@ -20,8 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15_Docker/04_push-pull/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_Docker/04_push-pull/tag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/01_create-database/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/02_create-table/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/03_insert-record/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/04_auto-increment/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/04_users/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/05_go-postgres/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/05_go-postgres/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/05_relational-dbs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/05_relational-dbs/db.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/06_queries_cross-join/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/07_queries_inner-join/01_video-rental/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/07_queries_inner-join/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Postgres/08_clauses/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,19 +76,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desktop\GoWebDev\16_Postgres\05_relational-dbs" />
+      <recent name="E:\Desktop\GoWebDev\15_Docker\04_push-pull" />
+      <recent name="E:\Desktop\GoWebDev\12_photo blog\04_display-picture\public\pics" />
+      <recent name="E:\Desktop\GoWebDev\Serving Files\03_FileServer Return Type\starting-files\public\pics" />
+      <recent name="E:\Desktop\GoWebDev\Serving Files\02_http.FileServer\starting-files\pic" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Desktop\GoWebDev\12_photo blog" />
       <recent name="E:\Desktop\GoWebDev\12_photo blog\03_upload-picture" />
       <recent name="E:\Desktop\GoWebDev\12_photo blog\02_storing multiple values" />
       <recent name="E:\Desktop\GoWebDev\09_AWS\01_publish service on aws\01_repository" />
       <recent name="E:\Desktop\GoWebDev\08_Sessions\08_expire session" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Desktop\GoWebDev\15_Docker\04_push-pull" />
-      <recent name="E:\Desktop\GoWebDev\12_photo blog\04_display-picture\public\pics" />
-      <recent name="E:\Desktop\GoWebDev\Serving Files\03_FileServer Return Type\starting-files\public\pics" />
-      <recent name="E:\Desktop\GoWebDev\Serving Files\02_http.FileServer\starting-files\pic" />
-      <recent name="E:\Desktop\GoWebDev\Serving Files\02_http.FileServer\starting-files\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
