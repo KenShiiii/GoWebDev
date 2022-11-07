@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="954d305c-43ea-4292-8022-5414c2c87866" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_gin/02_gin-router-----postgres/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_gin/02_gin-router-----postgres/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20_gin/01_gin-router-----restful-API/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/20_gin/01_gin-router-----restful-API/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_gin/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/20_gin/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_gin/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/20_gin/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,9 +124,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="460" y="0" width="2116" height="952" key="dock-window-1/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1661788575807" />
-    <state x="943" y="315" key="search.everywhere.popup" timestamp="1662884852292">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1667752646847">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" key="search.everywhere.popup/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1662884852292" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1667752646847" />
   </component>
 </project>
